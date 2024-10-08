@@ -10,7 +10,7 @@ console.log(stringToNumber('432'));
 
 Define input
 Transform Input
-Realize potential
+Realize potsential
 
 returning number equivalend to value of string
 input a string with a number value
