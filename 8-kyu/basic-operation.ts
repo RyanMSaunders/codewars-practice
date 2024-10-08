@@ -1,7 +1,6 @@
 
 export function basicOp(operation: string, value1: number, value2: number): number {
 
-
   switch (operation) {
     case '+':
       return value1 + value2
@@ -20,6 +19,11 @@ console.log(basicOp('+', 3, 3));
 
 
 /*
+Define input
+Threshold Check
+Transform Potential
+Realize Potential
+
 
 Your task is to create a function that does four basic mathematical operations.
 
