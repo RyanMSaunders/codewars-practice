@@ -10,6 +10,16 @@ console.log(noSpace("8aaaaa dddd r     "));
 
 
 /**
+ 
+Define input
+Input type conversion
+Transforming input
+Transforming potential
+Realizing potential
+
+
+
+
  Write a function that removes the spaces from the string, 
  then return the resultant string.
 
