@@ -9,7 +9,11 @@ export function repeatStr(n: number, s: string): string {
 
 console.log(repeatStr(6, 'I'));
 
-
+// Define input
+// Define Potential
+// Threshold Loop
+// Transform potential
+// realize potential
 
 
 /**
