@@ -8,7 +8,7 @@ export function abbrevName(name: string): string {
 
 console.log(abbrevName("ryan saunders"));
 
-/*
+/*s
 
 Define input
 Input type conversion
