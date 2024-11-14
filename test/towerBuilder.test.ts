@@ -4,8 +4,8 @@ import { deepEqual } from "assert"
 describe("towerBuilder", function() {
   it("should pass test", function() {
     deepEqual(towerBuilder(1), ["*"]);
-    deepEqual(towerBuilder(2), ["*", "***"])
-    deepEqual(towerBuilder(3), ["*", "***", "*****"])
+    deepEqual(towerBuilder(2), [" * ", "***"])
+    deepEqual(towerBuilder(3), ["  *  ", " *** ", "*****"])
 
   })
 })
