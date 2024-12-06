@@ -19,7 +19,7 @@ export const likes = (a: string[]): string => {
     
   }
 
-  return 'noone likes this'
+  return 'noone likes this';
  
 }
 
