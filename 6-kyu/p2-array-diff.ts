@@ -1,14 +1,14 @@
 
 export const arrayDiff = (a: number[], b: number []): number[] => {
-
+  let result: number[] = []
   a.map((val, i) => {
-    if (b.includes(val)) {
-      a.splice(i, 1)
+    if (!b.includes(val)) {
+      result.push(val)
     }
   });
   
   
-  return a;
+  return result;
 };
 
 console.log(arrayDiff([1,2],[1]));
